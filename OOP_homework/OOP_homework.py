@@ -137,7 +137,7 @@ reviewer1.rate_hw(student2, 'Python', 10)
 reviewer2.rate_hw(student1, 'Java', 7)
 reviewer2.rate_hw(student2, 'JavaScript', 8)
 
-# Выставляем оценки ученикам
+# Выставляем оценки лекторам
 
 student1.rate_lecturer(lecturer1, 'Python', 9)
 student2.rate_lecturer(lecturer1, 'Python', 10)
