@@ -157,7 +157,7 @@ print(lecturer1 < lecturer2)
 students = [student1, student2]
 lecturers = [lecturer1, lecturer2]
 
-print(calculate_avg_hw(students, 'Python'))
+print(calculate_avg_hw(students, 'Java'))
 print(calculate_avg_lecture(lecturers, 'Python'))
 
 
